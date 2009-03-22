@@ -1,4 +1,4 @@
-
+// add global config information
 #include <stdio.h>
 
 int main (void)
