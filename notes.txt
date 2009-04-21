@@ -1,0 +1,2 @@
+git log --graph --abbrev-commit --pretty=oneline --decorate
+git clone git://github.com/wyjday/wyjday.git
