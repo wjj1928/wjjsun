@@ -1,2 +1,7 @@
+
+git usage
+========================================
 git log --graph --abbrev-commit --pretty=oneline --decorate
 git clone git://github.com/wyjday/wyjday.git
+git push git@github.com:wjjsun/wjjsun.git master
+
