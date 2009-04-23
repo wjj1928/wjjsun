@@ -24,7 +24,7 @@ repo init -u git://android.git.kernel.org/platform/manifest.git -b cupcake
 
 
 ========================================
-git clone git://github.com/wyjday/wyjday.git
+git clone git://github.com/wjjsun/wjjsun.git
 git push git@github.com:wjjsun/wjjsun.git master
 ========================================
 
