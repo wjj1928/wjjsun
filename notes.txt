@@ -5,6 +5,8 @@ android git release
 http://android.git.kernel.org/
 svg tools
 http://www.inkscape.org/download/?lang=en
+ubuntu downlaod
+http://www.ubuntu.com/getubuntu/download
 
 git usage
 ========================================
